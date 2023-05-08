@@ -2,6 +2,31 @@
 <html>
 <head>
     <title>Weekly Menu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        #menu {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+        #menu li {
+            background-color: #f4f4f4;
+            margin: 5px;
+            padding: 10px;
+        }
+        #menu li:nth-child(odd) {
+            background-color: #e4e4e4;
+        }
+        @media (max-width: 600px) {
+            #menu li {
+                font-size: 18px;
+            }
+        }
+    </style>
 </head>
 <body>
     <h1>Veckans Lunch Meny</h1>
