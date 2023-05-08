@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Weekly Menu</title>
+</head>
+<body>
+    <h1>Veckans Lunch Meny</h1>
+    <ul id="menu"></ul>
+
+    <script>
+        fetch('lunch.json')
+            .then(response => response.json())
+            .then(data => {
+                const menuList = document.getElementById('menu');
+                const daysOfWeek = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday'];
+                const daysOfWeekSwedish = ['Måndag', 'Tisdag', 'Onsdag', 'Torsdag', 'Fredag'];
+                daysOfWeek.forEach((day, index) => {
+                    const listItem = document.createElement('li');
+                    const dayMenu = data[0][day].split('\r\n');
+                    listItem.innerHTML = `<strong>${daysOfWeekSwedish[index]}:</strong><br>${dayMenu.join('<br>')}`;
+                    menuList.appendChild(listItem);
+                });
+            });
+    </script>
+</body>
+</html>

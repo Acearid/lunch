@@ -1,0 +1,32 @@
+[
+    {
+        "saturday": "",
+        "week": 19,
+        "updById": 323,
+        "creByType": -1,
+        "creDate": "2023-05-04 09:30:03.0",
+        "dishCategoryName": "Dagens lunch",
+        "creById": 323,
+        "thursday": "Dagens r\u00e4tt: K\u00f6kets val\r\nDagens vegetariska: K\u00f6kets val \r\n",
+        "dates": [
+            "2023-05-08",
+            "2023-05-09",
+            "2023-05-10",
+            "2023-05-11",
+            "2023-05-12",
+            "2023-05-13",
+            "2023-05-14"
+        ],
+        "orgId": 2,
+        "updDate": "2023-05-04 09:30:03.0",
+        "empty": false,
+        "updByType": -1,
+        "sunday": "",
+        "tuesday": "Dagens r\u00e4tt: Pytt i panna med senaps cr\u00e8me samt r\u00f6dbetor\r\nDagens vegetariska: Tr\u00e4dg\u00e5rdsm\u00e4starpytt med senaps cr\u00e8me samt r\u00f6dbetor\r\n",
+        "dish": 1,
+        "wednesday": "Dagens r\u00e4tt: \u00c5ngad fisk med hummers\u00e5s & hemlagat potatismos\r\nDagens vegetariska: Pasta med champinjoner, spenat och fetaost\r\n",
+        "friday": "Dagens r\u00e4tt: Kycklingfajitas med tillbeh\u00f6r\r\nDagens vegetariska: Vegetarisk fajitas med tillbeh\u00f6r\r\n",
+        "id": -1,
+        "monday": "Dagens r\u00e4tt: K\u00f6kets val \r\nDagens vegetariska: K\u00f6kets val"
+    }
+]
