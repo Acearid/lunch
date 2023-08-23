@@ -1,32 +1,32 @@
 [
     {
         "saturday": "",
-        "week": 21,
+        "week": 34,
         "updById": 323,
         "creByType": -1,
-        "creDate": "2023-05-22 08:30:31.0",
+        "creDate": "2023-08-18 14:57:50.0",
         "dishCategoryName": "Dagens lunch",
         "creById": 323,
-        "thursday": "Dagens r\u00e4tt: Korvstroganoff serveras med ris\r\nDagens vegetariska: B\u00f6nstroganoff serveras med ris\r\n",
+        "thursday": "Dagens r\u00e4tt: Kycklingschnitzel med rostad potatis samt bearnaise\r\n\r\nDagens vegetariska: Vegetarisk schnitzel med rostad potatis samt bearnaise",
         "dates": [
-            "2023-05-22",
-            "2023-05-23",
-            "2023-05-24",
-            "2023-05-25",
-            "2023-05-26",
-            "2023-05-27",
-            "2023-05-28"
+            "2023-08-21",
+            "2023-08-22",
+            "2023-08-23",
+            "2023-08-24",
+            "2023-08-25",
+            "2023-08-26",
+            "2023-08-27"
         ],
         "orgId": 2,
-        "updDate": "2023-05-22 08:30:31.0",
+        "updDate": "2023-08-18 14:57:50.0",
         "empty": false,
         "updByType": -1,
         "sunday": "",
-        "tuesday": "Dagens r\u00e4tt: Nasi goreng med kyckling (indonesisk ris pytt)\r\nDagens vegetariska: Nasi goreng (indonesisk ris pytt)\r\n",
+        "tuesday": "Dagens r\u00e4tt: Panerad fisk med kokt potatis samt kall \u00f6rts\u00e5s\r\n\r\nDagens vegetariska: Panerad vego biff med kokt potatis samt kall \u00f6rt\u00e5s",
         "dish": 1,
-        "wednesday": "Dagens r\u00e4tt: Ugnsbakad fiskfil\u00e9 med pankocrunch, kall s\u00e5s & kokt potatis\r\nDagens vegetariska: Stekt vegetarisk b\u00f6nbiff med kall s\u00e5s serveras med kokt potatis\r\n",
-        "friday": "Dagens r\u00e4tt: Sloppy joe\u00b4s med tillbeh\u00f6r\r\nDagens vegetariska: Sloppy joe\u00b4s med tillbeh\u00f6r\r\n",
+        "wednesday": "Dagens r\u00e4tt: K\u00f6ttbullar med makaroner\r\n\r\nDagens vegetariska: Vegobullar med makaroner",
+        "friday": "Dagens r\u00e4tt: Wokad ris med gr\u00f6nsaker samt kyckling\r\n\r\nDagens vegetariska: Wokad ris med gr\u00f6nsaker samt b\u00f6nor",
         "id": -1,
-        "monday": "Dagens r\u00e4tt: Potatisbullar med bacon och lingon\r\nDagens vegetariska: Potatisbullar med lingon\r\n"
+        "monday": "Dagens r\u00e4tt: Korvstroganoff med ris\r\n\r\nDagens vegetariska: Vegetarisk stroganoff med ris"
     }
 ]
