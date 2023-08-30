@@ -1,32 +1,32 @@
 [
     {
         "saturday": "",
-        "week": 34,
-        "updById": 323,
+        "week": 35,
+        "updById": 246,
         "creByType": -1,
-        "creDate": "2023-08-18 14:57:50.0",
+        "creDate": "2023-08-24 08:04:37.0",
         "dishCategoryName": "Dagens lunch",
-        "creById": 323,
-        "thursday": "Dagens r\u00e4tt: Kycklingschnitzel med rostad potatis samt bearnaise\r\n\r\nDagens vegetariska: Vegetarisk schnitzel med rostad potatis samt bearnaise",
+        "creById": 246,
+        "thursday": "Elevernas \u00f6nsker\u00e4tt\r\n\r\nVegetarisk: Elevernas \u00f6nsker\u00e4tt",
         "dates": [
-            "2023-08-21",
-            "2023-08-22",
-            "2023-08-23",
-            "2023-08-24",
-            "2023-08-25",
-            "2023-08-26",
-            "2023-08-27"
+            "2023-08-28",
+            "2023-08-29",
+            "2023-08-30",
+            "2023-08-31",
+            "2023-09-01",
+            "2023-09-02",
+            "2023-09-03"
         ],
         "orgId": 2,
-        "updDate": "2023-08-18 14:57:50.0",
+        "updDate": "2023-08-25 08:05:00.0",
         "empty": false,
         "updByType": -1,
         "sunday": "",
-        "tuesday": "Dagens r\u00e4tt: Panerad fisk med kokt potatis samt kall \u00f6rts\u00e5s\r\n\r\nDagens vegetariska: Panerad vego biff med kokt potatis samt kall \u00f6rt\u00e5s",
+        "tuesday": "Pocherad fisk med vitvins\u00e5s och kokt potatis\r\n\r\nVegetarisk: ugnsbakad  zucchinibiff i vitvins\u00e5s och kokt potatis",
         "dish": 1,
-        "wednesday": "Dagens r\u00e4tt: K\u00f6ttbullar med makaroner\r\n\r\nDagens vegetariska: Vegobullar med makaroner",
-        "friday": "Dagens r\u00e4tt: Wokad ris med gr\u00f6nsaker samt kyckling\r\n\r\nDagens vegetariska: Wokad ris med gr\u00f6nsaker samt b\u00f6nor",
+        "wednesday": "Indisk currygryta med kyckling och ris.\r\n\r\nVegetarisk: Indisk linsgryta med ris",
+        "friday": "Amerikansk buffe\r\n\r\nVegetarisk: Amerikansk buffe",
         "id": -1,
-        "monday": "Dagens r\u00e4tt: Korvstroganoff med ris\r\n\r\nDagens vegetariska: Vegetarisk stroganoff med ris"
+        "monday": "Carbonara med pasta\r\n\r\nvegetarisk: Vegocarbonara med pasta"
     }
 ]
